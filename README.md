@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchitcode&label=Profile%20views&color=0e75b6&style=flat" alt="anchitcode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anchitcode" alt="anchitcode" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnchitCode)](https://github.com/AnchitCode/github-profile-trophy)
 - 🔭 I’m currently working on **Medicine Availability & Shortage Alert System**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (Java)| MERN Stack (MongoDB, Express, React, Node.js)|Machine Learning**
