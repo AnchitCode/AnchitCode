@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anchit Kumar</h1>
 <h3 align="center">💻 CS Engineer | DSA • MERN • ML • Cloud & DevOps Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchitcode&label=Profile%20views&color=0e75b6&style=flat" alt="anchitcode" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnchitCode)](https://github.com/AnchitCode/github-profile-trophy)
 - 🔭 I’m currently working on **Medicine Availability & Shortage Alert System**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (Java)| MERN Stack (MongoDB, Express, React, Node.js)|Machine Learning**
