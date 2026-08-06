@@ -169,7 +169,7 @@ anchitkumar94@gmail.com
 
 💼 **LinkedIn**
 
-https://linkedin.com/in/anchit-kumar
+https://www.linkedin.com/in/anchitcode/
 
 🐦 **Twitter**
 
