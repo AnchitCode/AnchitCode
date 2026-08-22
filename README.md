@@ -129,7 +129,7 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -139,30 +139,66 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnchitCode&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnchitCode&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnchitCode&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
 ---
 
 # 🎯 Areas of Interest
 
-`Artificial Intelligence` · `Computer Vision` · `LLM Applications` ·
-`Backend Engineering` · `System Design` · `Full Stack Development` ·
-`Cloud & DevOps`
+- Artificial Intelligence
+- Computer Vision
+- Large Language Models
+- Backend Engineering
+- System Design
+- Full Stack Development
+- Developer Experience
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/anchitcode/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/anchit_prime/">LeetCode</a> ·
-  <a href="https://github.com/AnchitCode">GitHub</a>
-</p>
+📧 **Email**
 
-📧 **anchitkumar94@gmail.com**
+anchitkumar94@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/anchitcode/
+
+🐦 **Twitter**
+
+https://twitter.com/anchitism
+
+💻 **GitHub**
+
+https://github.com/AnchitCode
 
 ---
 
 <div align="center">
 
-### Building practical software at the intersection of AI and full-stack engineering.
+### 🚀 Building products that combine AI with software engineering to solve real-world problems.
+
+⭐ If you like my work, consider starring my repositories.
 
 </div>
