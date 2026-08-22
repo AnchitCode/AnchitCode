@@ -2,16 +2,24 @@
 
 # Hi 👋, I'm Anchit Kumar
 
-### Full Stack Developer • AI Engineer • Computer Vision Enthusiast
+### Full Stack Developer · AI Engineer · Computer Vision Enthusiast
 
-I build AI-powered applications that combine **Computer Vision, Large Language Models, and Full-Stack Engineering** to solve real-world problems.
+I build **AI-powered and full-stack applications** that solve practical problems across
+fitness, healthcare, and intelligent web applications.
 
-Currently building products in **AI Fitness**, **Healthcare**, and **Intelligent Web Applications**.
+I enjoy working at the intersection of **AI, backend engineering, computer vision, and product development**.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AnchitCode&label=Profile%20Views&color=6c8eff&style=flat)](https://github.com/AnchitCode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anchit%20Kumar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anchit-kumar)
-[![Twitter](https://img.shields.io/badge/Twitter-@anchitism-1DA1F2?style=flat&logo=twitter)](https://twitter.com/anchitism)
-[![LeetCode](https://img.shields.io/badge/LeetCode-anchit__prime-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/anchit_prime)
+<p>
+  <a href="https://github.com/AnchitCode">
+    <img src="https://komarev.com/ghpvc/?username=AnchitCode&label=Profile%20Views&color=6c8eff&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://linkedin.com/in/anchitcode/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anchit%20Kumar-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/anchit_prime/">
+    <img src="https://img.shields.io/badge/LeetCode-anchit__prime-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
 
 </div>
 
@@ -19,59 +27,64 @@ Currently building products in **AI Fitness**, **Healthcare**, and **Intelligent
 
 # 🚀 Featured Projects
 
-## 🏋️ FitTrack AI *(Current Flagship Project)*
+## 🏋️ FitTrack AI
 
-> AI-powered fitness platform that combines workout tracking, computer vision, and intelligent coaching into one modern web application.
+> **AI-powered fitness coaching platform** that combines personalized workout planning, nutrition tracking, computer vision, and adaptive weekly coaching.
 
-### Highlights
+**Live Demo:** https://fit-track-ai-sooty.vercel.app/  
+**Repository:** https://github.com/AnchitCode/FitTrack-AI
 
-- 🤖 Gemini AI Fitness Assistant
-- 🎯 Real-time Exercise Tracking
-- 📷 MediaPipe Pose Detection
-- 💪 Workout & Nutrition Management
-- 📊 Analytics Dashboard
-- 🔐 JWT Authentication
-- 🌙 Premium Responsive UI
-- ⚡ MERN Architecture
+### What makes it interesting
 
-**Tech Stack**
-
-`React` • `Node.js` • `Express.js` • `MongoDB` • `MediaPipe` • `Gemini AI` • `Vite`
-
-**Repository**
-
-👉 https://github.com/AnchitCode/FitTrack-AI
-
----
-
-## 🤖 Smart AI Vision Trainer
-
-> Browser-based AI fitness trainer that performs real-time pose estimation, repetition counting, and posture correction directly in the browser.
-
-### Highlights
-
-- 33-point pose estimation
-- Automatic rep counting
-- Form validation
-- Voice coaching
-- Computer vision pipeline
-- WebAssembly MediaPipe
+- 🤖 **AI Fitness Coach** powered by Gemini
+- 📷 **Real-time exercise tracking** using MediaPipe Pose
+- 🎯 Personalized workout and calorie targets
+- 📊 Progress analytics and weekly reviews
+- 🔄 Adaptive weekly planning based on user performance
+- 🔐 JWT-based authentication
+- 🏃 Exercise-level workout tracking
+- 🌐 Production deployment with Vercel + Render
+- 🧪 **320 automated backend tests across 23 test suites**
 
 **Tech Stack**
 
-`React 19` • `TypeScript` • `MediaPipe WASM` • `Supabase`
-
-👉 https://github.com/AnchitCode/smart-ai-vision-trainer
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `MediaPipe` `Gemini AI` `JWT`
 
 ---
 
-# 🧠 Currently Working On
+## 💊 MASAS — Medicine Search & Pharmacy Platform
 
-- 🚀 Deploying **FitTrack AI**
-- 🤖 Building AI-first fitness experiences
-- 📚 Solving Data Structures & Algorithms in Java
-- 🏗️ Learning System Design & Backend Architecture
-- 🧠 Exploring Large Language Models & AI Engineering
+> **Geospatial healthcare platform** designed to connect patients with pharmacies and help users discover medicines based on availability and location.
+
+**Repository:** https://github.com/AnchitCode/MASAS
+
+### What makes it interesting
+
+- 📍 **Location-aware pharmacy & medicine search**
+- 🗺️ **PostGIS** geospatial queries
+- 💊 Medicine and pharmacy management
+- 🔎 Search and discovery APIs
+- 🗄️ **Prisma ORM + PostgreSQL**
+- 🧪 Automated backend testing
+- 📖 **OpenAPI / Swagger API documentation**
+- ⚙️ GitHub Actions CI/CD
+- 🐳 Docker-based testing infrastructure
+- ☁️ NeonDB + Vercel deployment architecture
+
+**Tech Stack**
+
+`React` `Vite` `Node.js` `TypeScript` `PostgreSQL` `Prisma` `PostGIS` `NeonDB` `Docker` `GitHub Actions`
+
+---
+
+# 🧠 What I'm Building & Learning
+
+- 🤖 AI-powered applications using **LLMs and Computer Vision**
+- 🏗️ **Backend architecture, APIs, and scalable application design**
+- 🧩 Data Structures & Algorithms
+- ☁️ Cloud deployment and CI/CD
+- 🗄️ Database design and geospatial systems
+- 🔬 Exploring practical AI engineering beyond simple API integrations
 
 ---
 
@@ -83,6 +96,8 @@ Currently building products in **AI Fitness**, **Healthcare**, and **Intelligent
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 
 ### Frontend
 
@@ -91,31 +106,30 @@ Currently building products in **AI Fitness**, **Healthcare**, and **Intelligent
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Backend
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### AI / ML
+### AI / Computer Vision
 
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white)
 
-### Tools
+### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -125,67 +139,30 @@ Currently building products in **AI Fitness**, **Healthcare**, and **Intelligent
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnchitCode&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnchitCode&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnchitCode&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</div>
-
 ---
 
 # 🎯 Areas of Interest
 
-- Artificial Intelligence
-- Computer Vision
-- Large Language Models
-- Backend Engineering
-- System Design
-- Full Stack Development
-- Developer Experience
+`Artificial Intelligence` · `Computer Vision` · `LLM Applications` ·
+`Backend Engineering` · `System Design` · `Full Stack Development` ·
+`Cloud & DevOps`
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
-📧 **Email**
+<p>
+  <a href="https://linkedin.com/in/anchitcode/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/anchit_prime/">LeetCode</a> ·
+  <a href="https://github.com/AnchitCode">GitHub</a>
+</p>
 
-anchitkumar94@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/anchitcode/
-
-🐦 **Twitter**
-
-https://twitter.com/anchitism
-
-💻 **GitHub**
-
-https://github.com/AnchitCode
+📧 **anchitkumar94@gmail.com**
 
 ---
 
 <div align="center">
 
-### 🚀 Building products that combine AI with software engineering to solve real-world problems.
-
-⭐ If you like my work, consider starring my repositories.
+### Building practical software at the intersection of AI and full-stack engineering.
 
 </div>
-
