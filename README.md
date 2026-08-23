@@ -56,7 +56,7 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 
 > **Geospatial healthcare platform** designed to connect patients with pharmacies and help users discover medicines based on availability and location.
 
-**Repository:** https://github.com/AnchitCode/MASAS
+**Repository:** https://github.com/AnchitCode/masas-platform
 
 ### What makes it interesting
 
