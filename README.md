@@ -194,6 +194,20 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=AnchitCode&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"
+    alt="Anchit's GitHub Trophies"
+  />
+
+</div>
+
+---
+
+
 # 🎯 Areas of Interest
 
 - Artificial Intelligence
