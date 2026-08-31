@@ -133,62 +133,43 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
 <img
  height="170"
- src="https://github-readme-stats.vercel.app/api?username=AnchitCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+ src="https://github-stats-extended.vercel.app/api?username=AnchitCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
  alt="Anchit's GitHub Stats"
 />
-
 <img
  height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnchitCode&layout=compact&theme=tokyonight&hide_border=true"
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnchitCode&layout=compact&theme=tokyonight&hide_border=true"
  alt="Anchit's Top Languages"
 />
-
 </div>
-
 <br/>
-
 <div align="center">
-
 <img
- src="https://streak-stats.demolab.com?user=AnchitCode&theme=tokyonight&hide_border=true"
+ src="https://github-readme-streak-stats-eight.vercel.app?user=AnchitCode&theme=tokyonight&hide_border=true"
  alt="Anchit's GitHub Streak"
 />
-
 </div>
-
 <br/>
-
 <div align="center">
-
 <img
  width="100%"
  src="https://github-readme-activity-graph.vercel.app/graph?username=AnchitCode&theme=tokyo-night&hide_border=true"
  alt="Anchit's GitHub Activity Graph"
 />
-
 </div>
-
 ---
-
 ## 🏆 GitHub Trophies
-
 <div align="center">
-
 <img
  width="100%"
  src="https://github-profile-trophy.vercel.app/?username=AnchitCode&theme=tokyonight&row=1&column=7&no-frame=true"
  alt="Anchit's GitHub Trophies"
 />
-
 </div>
-
 ---
-
 
 # 🎯 Areas of Interest
 
