@@ -132,7 +132,7 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -174,7 +174,7 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 
 ---
 
-# 💻 Top Languages
+## 💻 Top Languages
 
 <div align="center">
 
@@ -194,19 +194,16 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
   <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=AnchitCode&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=AnchitCode&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"
     alt="Anchit's GitHub Trophies"
   />
 
 </div>
-
----
-
 
 # 🎯 Areas of Interest
 
