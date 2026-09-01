@@ -73,7 +73,7 @@ I enjoy working at the intersection of **AI, backend engineering, computer visio
 
 **Tech Stack**
 
-`React` `Vite` `Node.js` `TypeScript` `PostgreSQL` `Prisma` `PostGIS` `NeonDB` `Docker` `GitHub Actions`
+`React` `Vite` `Node.js` `TypeScript` `PostgreSQL` `Prisma` `PostGIS` `NeonDB` `Docker` `GitHub Actions` `Ollama`
 
 ---
 
